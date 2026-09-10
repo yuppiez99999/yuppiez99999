@@ -1,4 +1,4 @@
-Hi 👋, I'm YuppieZ, also can say yuppie
+Hi 👋, I'm YuppieZ
 =======================================
 
 ### Quant Developer | Python · A-Share & ETF Quant · Backtesting · AI Agent
