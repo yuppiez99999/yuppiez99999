@@ -169,9 +169,11 @@ An AI-driven multi-strategy quantitative portfolio management system.
   * 集成 LLM 决策层，支持 **Ollama Qwen2.5** 本地推理
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langgraph&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B&style=flat-square&logo=streamlit&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000&style=flat-square&logo=langgraph&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000&style=flat-square&logo=ollama&logoColor=white)
+
+Repository · 仓库：[yuppiez99999/zhunbeibanjia](https://github.com/yuppiez99999/zhunbeibanjia)（私有）
 
 ### 🏋️ Fitness Tracker · 个人体脂体重监控
 
