@@ -130,8 +130,10 @@ An ETF monitoring system that tracks the fund flow of the **national team (Centr
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Wind MCP](https://img.shields.io/badge/Wind%20MCP-0F9D58?style=flat-square)
-![AKShare](https://img.shields.io/badge/AKShare-FF6B35?style=flat-square)
+![Wind MCP](https://img.shields.io/badge/Wind%20MCP-0F9D58&style=flat-square)
+![AKShare](https://img.shields.io/badge/AKShare-FF6B35&style=flat-square)
+
+Repository · 仓库：[yuppiez99999/etf-tracker](https://github.com/yuppiez99999/etf-tracker)
 
 ### 🔮 TrendCast Pro · 金融市场预测模型
 
@@ -148,9 +150,11 @@ A multi-horizon market direction prediction engine for **A-Share stocks, commodi
   * 自适应学习（漂移检测 + 自动重训），通过 **FastAPI（:8800）** 提供预测服务
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B&style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458&style=flat-square&logo=pandas&logoColor=white)
+
+Repository · 仓库：[shengjidaguai-china/Financial_Modeling](https://github.com/shengjidaguai-china/Financial_Modeling)
 
 ### 📉 Quant Strategy System · 多策略量化投资组合管理系统
 
