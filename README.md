@@ -28,8 +28,8 @@ Hi 👋, I'm YuppieZ
   * 打通「因子挖掘 → 回测 → 组合优化 → 执行与对冲」的研究到生产全链路
 * 🤖 Building AI applications with **LLMs**、**MCP**、**LangChain**、**Agent Skills**
   * 用 LLM / MCP / LangChain / Agent Skills 构建 AI 应用
-* 🔥 Open Source Maintainer of **BossHunter** — **900+ GitHub Stars**
-  * **BossHunter** 开源项目维护者 —— **900+ Stars**
+* 🔥 Open Source Maintainer of **BossHunter** — **1.2k+ GitHub Stars**
+  * **BossHunter** 开源项目维护者 —— **1.2k+ Stars**
 * 🌱 Currently exploring **Alpha Factor Research** and **LLM-driven Trading Agents**
   * 正在研究 **Alpha 因子** 与 **LLM 驱动的交易 Agent**
 * 📍 Beijing, China · 中国 · 北京
@@ -40,17 +40,19 @@ Hi 👋, I'm YuppieZ
 
 ### 🎯 BossHunter
 
-Maintainer of **BossHunter**, an open source project with **900+ GitHub Stars** and **120+ Forks**.
-> **BossHunter** 开源项目维护者 —— **900+ Stars**、**120+ Forks**。
+Maintainer of **BossHunter** in the **shengjidaguai-china** org (升级打怪开源社区), an open source project with **1.2k+ GitHub Stars** and **160+ Forks**.
+> **升级打怪开源社区（shengjidaguai-china）** 首批开放共建项目 **BossHunter** 正式维护者 —— **1.2k+ Stars**、**160+ Forks**。
 
 * Built multi-platform job collectors — **BOSS直聘 / 猎聘 / 智联招聘 / 51job** — with **resumable crawling** (word-level skip, page-level recovery, checkpoint records)
   * 构建多平台岗位采集器（BOSS直聘 / 猎聘 / 智联招聘 / 51job），支持**断点续采**（词级跳过、页级恢复、检查点记录）
 * Raised unit-test coverage of core modules from **15% → 100%** across the collection, filtering and capability layers
   * 把采集 / 过滤 / 能力层核心模块的单元测试覆盖率从 **15% 提升至 100%**
-* **31 pull requests** submitted and **36+ code reviews** — collaborating with open source developers through the GitHub workflow
-  * 提交 **31 个 PR**、完成 **36+ 次代码评审**，通过 GitHub 流程与开源开发者协作
+* **32 pull requests** submitted and **50+ code reviews** — collaborating with open source developers through the GitHub workflow
+  * 提交 **32 个 PR**、完成 **50+ 次代码评审**，通过 GitHub 流程与开源开发者协作
+* **#1 on the all-time contributor leaderboard** (6.0% of 41 contributors) with the **top maintainer contribution share (25.5%)** in the org
+  * 组织贡献总榜 **第 1 名**（41 位贡献者中占 **6.0%**），维护贡献占比 **25.5%** 并列最高
 
-Repository · 仓库：[shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter)
+Repository · 仓库：[shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) · Organization · 组织：[升级打怪开源社区](https://github.com/shengjidaguai-china)
 
 ---
 
