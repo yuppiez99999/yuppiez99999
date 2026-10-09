@@ -10,7 +10,7 @@ Hi 👋, I'm YuppieZ
 [![GitHub](https://img.shields.io/badge/GitHub-yuppiez99999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuppiez99999)
 [![Followers](https://img.shields.io/github/followers/yuppiez99999?style=for-the-badge&logo=github&label=Followers&color=181717)](https://github.com/yuppiez99999?tab=followers)
 [![Stars](https://img.shields.io/github/stars/yuppiez99999?style=for-the-badge&logo=github&label=Stars&color=yellow)](https://github.com/yuppiez99999?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=yuppiez99999&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/yuppiez99999)
+
 
 <a href="https://github.com/yuppiez99999">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=760&lines=Quant+Developer+%C2%B7+A-Share+%26+ETF+Quant;Factor+Mining+%E2%86%92+Backtesting+%E2%86%92+Execution;Building+AI+Agents+with+LLMs+%26+MCP;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -214,12 +214,11 @@ A personal body-fat & weight monitoring app with training plans and an AI coach.
 
 <div align="center">
 
-<img height="170em" src="https://gh-readme-stats.vercel.app/api?username=yuppiez99999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=en" alt="GitHub Stats" />
-<img height="170em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=yuppiez99999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=en" alt="Top Languages" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=yuppiez99999&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=en" alt="GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuppiez99999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=en" alt="Top Languages" />
 
 <img width="100%" src="https://streak-stats.demolab.com?user=yuppiez99999&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Streak" />
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuppiez99999&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
