@@ -28,8 +28,8 @@ Hi 👋, I'm YuppieZ
   * 打通「因子挖掘 → 回测 → 组合优化 → 执行与对冲」的研究到生产全链路
 * 🤖 Building AI applications with **LLMs**、**MCP**、**LangChain**、**Agent Skills**
   * 用 LLM / MCP / LangChain / Agent Skills 构建 AI 应用
-* 🔥 Open Source Maintainer of **BossHunter** — **1.18k+ GitHub Stars**
-  * **BossHunter** 开源项目维护者 —— **1.18k+ Stars**
+* 🔥 Open Source Maintainer of **BossHunter** — **1.39k+ GitHub Stars**
+  * **BossHunter** 开源项目维护者 —— **1.39k+ Stars**
 * 🌱 Currently exploring **Alpha Factor Research** and **LLM-driven Trading Agents**
   * 正在研究 **Alpha 因子** 与 **LLM 驱动的交易 Agent**
 * 📍 Beijing, China · 中国 · 北京
@@ -40,41 +40,39 @@ Hi 👋, I'm YuppieZ
 
 ### 🎯 BossHunter
 
-Maintainer of **BossHunter** in the **shengjidaguai-china** org (升级打怪开源社区, 12 repos / 394 followers), an open source project with **1.18k+ GitHub Stars** and **169 Forks**.
-> **升级打怪开源社区（shengjidaguai-china）** 首批开放共建项目 **BossHunter** 正式维护者 —— **1.18k+ Stars**、**169 Forks**（组织共 12 仓库 / 394 followers）。
+Maintainer of **BossHunter** in the **shengjidaguai-china** org (升级打怪开源社区, 12 repos / 524 followers), an open source project with **1.39k+ GitHub Stars** and **201 Forks**.
+> **升级打怪开源社区（shengjidaguai-china）** 首批开放共建项目 **BossHunter** 正式维护者 —— **1.39k+ Stars**、**201 Forks**（组织共 12 仓库 / 524 followers）。
 
 * Built multi-platform job collectors — **BOSS直聘 / 猎聘 / 智联招聘 / 51job** — with **resumable crawling** (word-level skip, page-level recovery, checkpoint records)
   * 构建多平台岗位采集器（BOSS直聘 / 猎聘 / 智联招聘 / 51job），支持**断点续采**（词级跳过、页级恢复、检查点记录）
 * Raised unit-test coverage of core modules from **15% → 100%** across the collection, filtering and capability layers
   * 把采集 / 过滤 / 能力层核心模块的单元测试覆盖率从 **15% 提升至 100%**
-* **36 pull requests** submitted (**22 merged**) and **56 code reviews** in the org — collaborating with open source developers through the GitHub workflow
-  * 在组织内提交 **36 个 PR**（**22 个已合入**）、完成 **56 次代码评审**，通过 GitHub 流程与开源开发者协作
-* **#1 on the all-time contributor leaderboard** (6.0% of 41 contributors) and **#1 on the near-30-day leaderboard** 🥇, with the **top maintainer contribution share (25.5%)** in the org
-  * 组织贡献总榜 **第 1 名**（41 位贡献者中占 **6.0%**），近 30 天贡献榜 **第 1 名 🥇**，维护贡献占比 **25.5%** 并列最高
+* **38 pull requests** submitted (**22 merged**) and **81 code reviews** in the org — collaborating with open source developers through the GitHub workflow
+  * 在组织内提交 **38 个 PR**（**22 个已合入**）、完成 **81 次代码评审**，通过 GitHub 流程与开源开发者协作
 
 Repository · 仓库：[shengjidaguai-china/BossHunter](https://github.com/shengjidaguai-china/BossHunter) · Organization · 组织：[升级打怪开源社区](https://github.com/shengjidaguai-china)
 
 ### 🌐 Cross-Platform Activity · 全平台贡献
 
-> Data measured on 2026-10-05 via GitHub REST API · 数据于 2026-10-05 经 GitHub REST API 实测
+> Data measured on 2026-10-30 via GitHub REST API · 数据于 2026-10-30 经 GitHub REST API 实测
 
 | Metric | Count |
 |---|---|
-| Commits (all repos) | **2,335** |
-| Pull Requests submitted | **116** |
-| Pull Requests merged | **83** |
-| Code Reviews | **56** |
-| Issues opened | **19** |
-| Public Repositories | **112** |
+| Commits (all repos) | **2,936** |
+| Pull Requests submitted | **181** |
+| Pull Requests merged | **124** |
+| Code Reviews | **81** |
+| Issues opened | **24** |
+| Public Repositories | **116** |
 
 | 指标 | 数量 |
 |---|---|
-| 提交（全仓） | **2,335** |
-| 提交 PR | **116** |
-| 已合入 PR | **83** |
-| 代码评审 | **56** |
-| 提出 Issue | **19** |
-| 公开仓库 | **112** |
+| 提交（全仓） | **2,936** |
+| 提交 PR | **181** |
+| 已合入 PR | **124** |
+| 代码评审 | **81** |
+| 提出 Issue | **24** |
+| 公开仓库 | **116** |
 
 ---
 
